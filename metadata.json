@@ -1,0 +1,6 @@
+{
+  "name": "AI Study Planner",
+  "description": "AI-Based Personalized Study Planner for college students to organize subjects, generate prioritized timetables, track study progress, and reschedule sessions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
